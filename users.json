@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "java",
+        "email": "java@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "First",
+        "email": "someemail@someemailprovider.com"
+    },
+    {
+        "id": 4,
+        "name": "java41",
+        "email": "java41@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "java5",
+        "email": "java5@gmail.com"
+    },
+    {
+        "id": 6,
+        "name": "java",
+        "email": "java6@gmail.com"
+    },
+    {
+        "id": 7,
+        "name": "seven",
+        "email": "seven@gmail.com"
+    },
+    {
+        "id": 8,
+        "name": "java",
+        "email": "java8@gmail.com"
+    }
+]
